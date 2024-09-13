@@ -6,7 +6,7 @@ fun main() {
         val input = readln().trim()
 
         if (input.equals("exit", ignoreCase = true)) {
-            println("Программа завершена. До свидания!")
+            println("Программа завершена.")
             break
         }
 
